@@ -2,7 +2,7 @@
 </br>
 Repuestos</br>
 </br>
-Llantas</br>
+<br><a href="https://github.com/RoyalPatosMedellin/Repuestos/blob/main/Llantas.MD">Llantas</a></br>
 </br>
-Talleres</br>
+<br><a href="https://github.com/RoyalPatosMedellin/Repuestos/blob/main/Talleres.MD">Talleres</a></br>
 </br>
